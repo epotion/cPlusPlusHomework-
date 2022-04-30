@@ -1,10 +1,10 @@
 /*
 *FileName:   T8_12.cpp
-*Author:     ¸Ê¾şºÀ
+*Author:     ç”˜å³»è±ª
 *E-mail:     32845288@qq.com
 *Date:       2022.4.20
 *College:    School of Computer Science and Information Engineering
-*Function:   ¹êÍÃÈüÅÜÄ£Äâ¡£
+*Function:   é¾Ÿå…”èµ›è·‘æ¨¡æ‹Ÿ
 */
 #include<iostream>
 #include<cstdlib>
