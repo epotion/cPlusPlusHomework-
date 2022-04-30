@@ -1,3 +1,11 @@
+/*
+*FileName: T7_13.cpp
+* Auther:  Junhao Gan
+* E-mail:  32845288@qq.com
+* Date:    Apr 14th, 2022
+* College: School of Computer Science and Information Engineering
+* Function:salesman's salary
+*/
 #include<iostream>
 #include<array>
 using namespace std;
